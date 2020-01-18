@@ -2206,4 +2206,8 @@ figure figcaption {
         text-align: center;
       }
       
-     
+      @media (min-width: 550px) {
+        .event{
+        margin-left: 0%;
+      }
+      }
