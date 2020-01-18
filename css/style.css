@@ -2210,4 +2210,11 @@ figure figcaption {
         .event{
         margin-left: 0%;
       }
+      .event .event-time {
+        font-size: 9px;
+      }
+      .event .event-content {
+        padding-left: 120px;
+        min-height: 120px;
+      }
       }
