@@ -2063,7 +2063,7 @@ figure figcaption {
   height: 100%;
   position: fixed;
   z-index: 7100;
-  background: #fff;
+  background: #000;
   top: 0;
   left: 0;
   right: 0;
@@ -2077,7 +2077,9 @@ figure figcaption {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
-
+  .text-primary-colo{
+    color:#685cf7;
+  }
 /* New Stye */
 .single-text .owl-dots {
   margin-top: 2rem;
